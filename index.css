@@ -1,5 +1,8 @@
 html {
     font-family: cursive;
+    background-color: grey;
+    background-image:url(http://i2.kym-cdn.com/photos/images/newsfeed/000/939/263/9ba.gif);
+    font-size: 30px;
 }
     .pomodoro-estimate {
         font-weight: bold;
@@ -20,8 +23,24 @@ html {
          display: block;
          background-color: #03A9F4 ;
          margin-top: 10px;
-}
+
+         }
     #add-new-todo-button:active{
         box-shadow: 10px 10px 10px #90A4AE;
-    
+}
+    #kermit1{
+        background-color: rgba(255,255,255,0.5);
+        text-align: center;
+        color: #34495e;
+    }
+h1{ 
+        color: white;
+        text-align: center;
+        font-size: 36px;
+    }
+body{
+    color: "black";
+}
+a{
+    color: darkgreen
 }
