@@ -1,0 +1,30 @@
+html{
+  background-color: white;
+  background-image: url(https://media1.tenor.com/images/80b16aaa930a07054ea553df99554f1c/tenor.gif?itemid=3965580)
+}
+
+h2{
+  background-color: rgba(255,255,255,0.5);
+  text-align: center;
+  color: Black;
+  padding: 1px 10px;
+  border-radius: 50px;
+  font-size: 40px;
+  text-decoration: blink;
+}
+
+body{
+  color: black;
+}
+#kermit2 {
+  text-align: center;
+  color: green;
+  font-family: cursive;
+  font-size: 36px;
+}
+a{
+  color: darkgreen;
+  padding: 1px 10px;
+  border-radius: 50px;
+  background-color: rgba(255,255,255,0.5)
+}
